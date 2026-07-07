@@ -17,4 +17,4 @@ Ce projet est dédié à l'**Analyse Exploratoire des Données** et à la **Data
 
 ## 🧰 Stack Technique
 * **Langage :** R
-* **Packages clés :** `tidyverse` (`dplyr`, `ggplot2`, `tidyr`), `plotly` (visualisations dynamiques), `corrplot`, `patchwork`, `rmdformats` (layout du rapport).
+* **Packages clés :** `tidyverse` (`dplyr`, `ggplot2`, `tidyr`), `plotly`, `corrplot`, `patchwork`, `rmdformats` (layout du rapport).
