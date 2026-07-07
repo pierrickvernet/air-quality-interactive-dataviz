@@ -7,7 +7,8 @@ Ce projet est dédié à l'**Analyse Exploratoire des Données** et à la **Data
 
 ## 🛠️ Pipeline de Data Engineering & Préparation
 * **Missing Data Management :** Analyse du taux de complétion et suppression ciblée des variables non exploitables.
-* **Feature Engineering :** * Conversion et harmonisation des types de variables.
+* **Feature Engineering :**
+  * Conversion et harmonisation des types de variables.
   * Extraction et ingénierie temporelle des composantes mensuelles et horaires.
 
 ## 📈 Extraits des Résultats Majeurs
