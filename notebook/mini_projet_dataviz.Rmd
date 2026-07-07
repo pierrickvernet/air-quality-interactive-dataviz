@@ -39,7 +39,7 @@ Comment les concentrations d’ozone (O3) à Périgueux en 2023 varient-elles se
 ```{r, message=FALSE, warning=FALSE}
 
 # Importation des données
-data <- read_excel("atmo_polluants_Périgueux.xlsx",sheet = 2)
+data <- read_excel("data/atmo_polluants_Périgueux.xlsx",sheet = 2)
 
 # On supprime l'heure dans la colonne date_debut car on a deja une colonne heure
 data$date_debut <- as.Date(data$date_debut)
