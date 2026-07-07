@@ -6,9 +6,8 @@ Ce projet est dédié à l'**Analyse Exploratoire des Données (EDA)** et à la 
 🔗 **[Consulter le rapport interactif complet (HTML sur GitHub Pages)](https://pierrickvernet.github.io/air-quality-interactive-dataviz/)**
 
 ## 🛠️ Pipeline de Data Engineering & Préparation
-* **Missing Data Management :** Analyse du taux de complétion et suppression ciblée des variables non exploitables (ex: exclusion de $PM_{2.5}$ en raison de 91% de données manquantes).
-* **Feature Engineering :** * Conversion et harmonisation des types de variables (caractères en numériques).
-  * Discrétisation de la direction du vent ($0-360^\circ$) en 8 secteurs cardinaux ($N, NE, E...$) via la fonction `cut()`.
+* **Missing Data Management :** Analyse du taux de complétion et suppression ciblée des variables non exploitables.
+* **Feature Engineering :** * Conversion et harmonisation des types de variables.
   * Extraction et ingénierie temporelle des composantes mensuelles et horaires.
 
 ## 📈 Extraits des Résultats Majeurs
