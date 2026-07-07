@@ -1,4 +1,4 @@
-# 📊 Data Cleaning & Interactive Air Quality Exploration (Périgueux 2023) 🌤️
+# Data Cleaning & Interactive Air Quality Exploration (Périgueux 2023)
 
 ## 📌 Présentation du Projet
 Ce projet est dédié à l'**Analyse Exploratoire des Données (EDA)** et à la **Data Visualization** des polluants atmosphériques de la ville de Périgueux. L'objectif est d'analyser l'influence fine des facteurs météorologiques et temporels sur les concentrations d'Ozone ($O_3$) au cours de l'année 2023.
