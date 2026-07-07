@@ -6,7 +6,8 @@ Ce projet est dédié à l'**Analyse Exploratoire des Données** et à la **Data
 🔗 **[Consulter le rapport interactif complet (HTML sur GitHub Pages)](https://pierrickvernet.github.io/air-quality-interactive-dataviz/)**
 
 ## 🛠️ Pipeline de Data Engineering & Préparation
-* **Missing Data Management :** Analyse du taux de complétion et suppression ciblée des variables non exploitables.
+* **Missing Data Management :**
+  * Analyse du taux de complétion et suppression ciblée des variables non exploitables.
 * **Feature Engineering :**
   * Conversion et harmonisation des types de variables.
   * Extraction et ingénierie temporelle des composantes mensuelles et horaires.
