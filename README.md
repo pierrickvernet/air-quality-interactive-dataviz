@@ -1,5 +1,7 @@
 # Data Cleaning & Interactive Air Quality Exploration (Périgueux 2023)
 
+[Consulter le rapport interactif complet (GitHub Pages)](https://pierrickvernet.github.io/air-quality-interactive-dataviz/)
+
 ## 1. INTRODUCTION
 
 ### Cadre de réalisation
@@ -66,10 +68,8 @@ L'ensemble du pipeline et des visualisations dynamiques est disponible en ligne 
 
 ```text
 .
-├── data/
-│   └── atmo_polluants_Périgueux.xlsx   # Données brutes de la station d'Atmo Périgueux (2023)
-├── notebook/
-│   └── mini_projet_dataviz.Rmd         # Code source RMarkdown du pipeline et des analyses
+├── atmo_polluants_Périgueux.xlsx   # Données brutes de la station d'Atmo Périgueux (2023)
+├── mini_projet_dataviz.Rmd         # Code source RMarkdown du pipeline et des analyses
 ├── .gitattributes                      # Configuration Git du dépôt
 ├── index.html                          # Rapport HTML interactif déployé sur GitHub Pages
 └── README.md                           # Documentation du projet
