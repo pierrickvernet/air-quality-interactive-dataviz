@@ -68,11 +68,11 @@ L'ensemble du pipeline et des visualisations dynamiques est disponible en ligne 
 
 ```text
 .
-├── atmo_polluants_Périgueux.xlsx   # Données brutes de la station d'Atmo Périgueux (2023)
-├── mini_projet_dataviz.Rmd         # Code source RMarkdown du pipeline et des analyses
 ├── .gitattributes                      # Configuration Git du dépôt
+├── README.md                           # Documentation du projet
+├── atmo_polluants_Périgueux.xlsx       # Données brutes de la station d'Atmo Périgueux (2023)
 ├── index.html                          # Rapport HTML interactif déployé sur GitHub Pages
-└── README.md                           # Documentation du projet
+└── mini_projet_dataviz.Rmd             # Code source RMarkdown du pipeline et des analyses
 ```
 
 ---
